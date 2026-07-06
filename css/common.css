@@ -24,3 +24,26 @@ address {
 .button {
     cursor: pointer;
 }
+.features {
+        padding: 120px;
+    }
+.portfolio {
+padding: 120px;
+}
+.team {
+padding: 120px;
+}
+.features-title {
+    margin-bottom: 72px;
+}
+.portfolio-title {
+    max-width: 218px;
+    margin: 0 auto 72px;
+}
+.team-title {
+    max-width: 162px;
+    margin: 0 auto 72px;
+}
+.footer {
+    padding: 100px;
+}
