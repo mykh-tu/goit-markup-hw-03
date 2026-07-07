@@ -27,3 +27,12 @@ font-weight: 400;
     letter-spacing: 0.02em;
 color: #f4f4fd;
 }
+
+.footer-bottom {
+    display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 16px;
+        width: 264px;
+            max-width: 264px;
+}
