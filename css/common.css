@@ -51,8 +51,22 @@ padding: 120px;
     margin: 0 auto 72px;
 }
 .footer {
-    padding: 100px;
+    padding: 100px 0px;
 }
 .container {
-    width: 1158px;
+    margin:auto
+    padding: 0 15px;
 }
+        
+.sr-only {
+            position: absolute;
+            white-space: nowrap;
+            width: 1px;
+            height: 1px;
+            overflow: hidden;
+            border: 0;
+            padding: 0;
+            clip: rect(0 0 0 0);
+            clip-path: inset(100%);
+            margin: -1px;
+        }
