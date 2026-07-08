@@ -16,11 +16,11 @@ font-weight: 700;
 display: flex;
 flex-wrap: wrap;
 gap: 24px;
-border-radius: 0 0 4px 4px;
 }
 
 .team-item {
     background: #ffffff;
+    border-radius: 0 0 4px 4px;
 }
 
 .team-ill {
@@ -37,6 +37,7 @@ border-radius: 0 0 4px 4px;
         text-align: center;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        margin-bottom: 8px;
 }
 .team-type {
    font-size: 16px;
