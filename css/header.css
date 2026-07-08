@@ -66,6 +66,8 @@ font-weight: 500;
 .contacts-header {
     display: flex;
         gap: 40px;
+        padding-top: 24px;
+        padding-bottom: 24px;
     }
 
 .contact-item {}
@@ -103,6 +105,4 @@ font-weight: 400;
 .contact-mail:focus, .contact-tel:focus {
    color: #404bbf;
 }
-.contact-tel, .contact-mail {
-display: flex;
-}
+.contact-tel, .contact-mail {}
